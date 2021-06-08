@@ -1,4 +1,4 @@
-# human-pose-estimation-opencv
+# Human-pose-estimator-opencv
 Perform Human Pose Estimation in OpenCV Using OpenPose MobileNet
 
 ![OpenCV Using OpenPose MobileNet](output.JPG)
